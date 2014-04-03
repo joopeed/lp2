@@ -1,4 +1,4 @@
 lp2
 ===
 
-Exercises made for Java Programming classes
+Exercises done for Java Programming classes
